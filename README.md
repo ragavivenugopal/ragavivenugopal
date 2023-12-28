@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ragavivenugopal
-- 👀 I’m interested in full stack development,DevOps,UI/UX designing, illustration, digital art and graphic designing
-- 🌱 I’m currently learning full stack web development
+- 👀 I’m interested in full stack development,DevOps,UI/UX designing, digital art and graphic designing
+- 🌱 I’m currently learning DevOps
 
 
 <!---
